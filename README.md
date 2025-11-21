@@ -23,6 +23,7 @@ Always improving, always learning. 🚀
   <img src="https://skillicons.dev/icons?i=python" width="45" />
   <img src="https://skillicons.dev/icons?i=html" width="45" />
   <img src="https://skillicons.dev/icons?i=css" width="45" />
+  <img src="https://skillicons.dev/icons?i=kali" width="45" />
   <img src="https://skillicons.dev/icons?i=javascript" width="45" />
 </p>
 
