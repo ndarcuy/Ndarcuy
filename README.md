@@ -23,7 +23,6 @@ Always improving, always learning. 🚀
   <img src="https://skillicons.dev/icons?i=python" width="45" />
   <img src="https://skillicons.dev/icons?i=html" width="45" />
   <img src="https://skillicons.dev/icons?i=css" width="45" />
-  <img src="https://skillicons.dev/icons?i=kali" width="45" />
   <img src="https://skillicons.dev/icons?i=javascript" width="45" />
 </p>
 
@@ -31,7 +30,9 @@ Always improving, always learning. 🚀
 <p>
   <img src="https://skillicons.dev/icons?i=arduino" width="45" />
   <img src="https://skillicons.dev/icons?i=linux" width="45" />
+  <img src="https://skillicons.dev/icons?i=kali" width="45" />
   <img src="https://skillicons.dev/icons?i=mysql" width="45" />
+  <img src="https://skillicons.dev/icons?i=vscode" width="45" />
 </p>
 
 ---
