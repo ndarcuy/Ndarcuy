@@ -38,8 +38,8 @@ Always improving, always learning. 🚀
 ## 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ndarcuy&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndarcuy&layout=compact&theme=tokyonight" height="165" />
 </p>
 
 ---
@@ -51,13 +51,13 @@ Always improving, always learning. 🚀
   <a href="#"><img src="https://skillicons.dev/icons?i=gmail" width="45"></a>
 </p>
 
-📧 Email: *your-email@example.com*  
-🌐 Website/Link: *your-link*
+📧 Email: *ndarucahyo871@gmail.com*  
+
 
 ---
 
 ## ⭐ Final Words
-> "The road in tech is not a race, it is a journey. Keep moving forward."
+> "Lebih baik memahami kode kode komputer daripada kode kode cewek :3."
 
 <!-- Footer -->
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
