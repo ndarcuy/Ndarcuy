@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Header](https://capsule-render.vercel.app/api?type=wave&color=0:4158D0,50:C850C0,100:FFCC70&height=220&section=header&text=Ndarcuy&fontSize=60&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=wave&color=1:4158D0,50:C850C0,100:FFCC70&height=220&section=header&text=Ndarcuy&fontSize=60&animation=fadeIn)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7006B&width=435&lines=Cybersecurity+Enthusiast;Web+Developer+%26+Tech+Explorer;Microcontroller+%26+IoT+Learner;Digital+Content+Creator" alt="Typing SVG" />
